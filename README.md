@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **node.js**
+- 💬 Ask me about **deno and typescript**
 
 - 📫 Reach me at **nylecohen@gmail.com**
 
