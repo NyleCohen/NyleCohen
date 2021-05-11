@@ -5,6 +5,4 @@
 
 - 💬 Ask me about **deno and typescript**
 
-- 📫 Reach me at **nylecohen@gmail.com**
-
 - 🤫 Mostly working on internal projects
