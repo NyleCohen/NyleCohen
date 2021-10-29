@@ -4,5 +4,3 @@
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **deno and typescript**
-
-- 🤫 Mostly working on internal projects
